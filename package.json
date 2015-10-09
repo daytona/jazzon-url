@@ -1,0 +1,20 @@
+{
+  "name": "jazzon-url",
+  "version": "0.1.0",
+  "description": "Plugin for jazzon to rewrite urls",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ./"
+  },
+  "keywords": [
+    "jazzon",
+    "url",
+    "rewrite"
+  ],
+  "author": "William Andersson <william.andersson@daytona.se>",
+  "license": "MIT",
+  "devDependencies": {
+    "jazzon": "^0.1.0",
+    "eslint": "^1.5.0"
+  }
+}
